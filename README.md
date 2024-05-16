@@ -11,11 +11,11 @@ Clock on gas-discharge indicators IN-1 with a display menu and the ability to co
 | :-- | :-: | 
 | [`stm32f103c8t6 WeAct Blue Pill`](https://stm32-base.org/boards/STM32F103C8T6-WeAct-Blue-Pill-Plus-Clone.html) |  1  | 
 | [`Arduino nano`](https://store.arduino.cc/products/arduino-nano) | 1 | 
-|[`Gas-discharge indicators IN-1`](https://www.swissnixie.com/tubes/IN1/)| 6 |
+|[`Gas-discharge indicator IN-1`](https://www.swissnixie.com/tubes/IN1/)| 6 |
 |[`Decoder K155ИД1`](https://fabacademy.org/2021/labs/bottrop/students/lars-mattern/projects/final-project/IV.%20Prototyping/2_k155id1/)| 1 |
 |[`LM7805`](https://www.seeedstudio.com/blog/2019/10/30/lm7805-voltage-regulator-features-comparisons-lm317-and-more/#:~:text=The%20LM7805%20is%20a%20voltage,3%2DTerminal%20Regulators)| 1 |
 |[`IRF840`](https://alltransistors.com/mosfet/transistor.php?transistor=2572)| 1 |
-|[`Optocouplers TLP627 Toshiba`](https://www.allaboutcircuits.com/electronic-components/datasheet/TLP627-4%28F%29--Toshiba/)| 6 |
+|[`Optocoupler TLP627 Toshiba`](https://www.allaboutcircuits.com/electronic-components/datasheet/TLP627-4%28F%29--Toshiba/)| 6 |
 |[`0.96 inch 128X64 OLED Display I2C`](https://www.smart-prototyping.com/0-96-OLED-Display-IIC-New-Version) | 1 |
 |[`Rotary encoder module`](https://www.tinytronics.nl/en/switches/manual-switches/rotary-encoders/rotary-encoder-module) | 1 |
 |`PLS-20 2.54 mm`| 2 |
@@ -24,17 +24,23 @@ Clock on gas-discharge indicators IN-1 with a display menu and the ability to co
 |`3W resistor 330 kOhm`| 1 |
 |`Protection diode 1.5KE200A`| 1 |
 |`1/4W resistor 22 Ohm`| 1 |
-|`1/4W resistors 220 Ohm`| 4 |
+|`1/4W resistor 220 Ohm`| 4 |
 |`1/4W resistor 470 Ohm`| 1 |
 |`1/4W resistor 10 kOhm`| 1 |
-|`Leds`| 4 |
+|`Led`| 4 |
 |`Diode Her-106`| 1 |
 |`Electrolytic capacitor 470 uF 350 V`| 1 |
 |`Electrolytic capacitor 0.47 uF`| 1 |
 |`Ceramic capacitor 100 nF`| 1 |
 |`Inductor 220 uH`| 1 |
 
-# Project on EasyEda
+#    CubeMX Parameters
+# **GPIO Parameters**
+![image](https://github.com/Plan1x/Nixie-Clock/assets/114416461/f29ff84e-5a69-4307-9134-2468627464ed)
+# **Clock Parameters**
+![image](https://github.com/Plan1x/Nixie-Clock/assets/114416461/b5045e7c-40f3-4989-a5a8-6ffa6105e6f5)
+
+
 
 
 
