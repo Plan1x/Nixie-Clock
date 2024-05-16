@@ -40,14 +40,7 @@ Clock on gas-discharge indicators IN-1 with a display menu and the ability to co
 # **Clock Parameters**
 ![image](https://github.com/Plan1x/Nixie-Clock/assets/114416461/b5045e7c-40f3-4989-a5a8-6ffa6105e6f5)
 
-
-
-
-
-
-
-
-
+# Other project photos
 ![photo_2024-05-15_20-45-47](https://github.com/Plan1x/Nixie-Clock/assets/114416461/8ef877aa-03d6-48f7-aa21-37d86a883bb0)
 ![photo_2024-05-15_20-46-20](https://github.com/Plan1x/Nixie-Clock/assets/114416461/ea606b9d-341f-4725-97be-287e10e3a602)
 ![photo_2024-05-15_20-46-23](https://github.com/Plan1x/Nixie-Clock/assets/114416461/ad136e3a-566c-47c8-8d84-5cc024ca7769)
